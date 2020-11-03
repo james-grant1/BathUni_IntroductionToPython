@@ -1,3 +1,9 @@
+20.1.0 - New versioning format for general Python Programming for UG
+  - <Academic year start>.<semester>.<version>
+  - Updated welcome notebook to reflect use of Teams:
+    - help link intro for Teams 'team' 
+    - use of channels for help
+
 1.3.1 – Updated expired Slack link
 
 1.3.0 – Added +1.0.0 to all version numbers to clarify that this code is considered “in production”!
